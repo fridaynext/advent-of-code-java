@@ -57,8 +57,6 @@ public class FileReader {
             index++;
         }
 
-
-
         System.out.println("Total unique yes answers: " + totalUnique);
         System.out.println("Total unanimous yes answers: " + totalUnanimous);
     }
@@ -66,7 +64,7 @@ public class FileReader {
     public FileReader() {};
     public FileReader(String fileName) throws IOException {
         this.fileName = fileName;
-        this.filePath = Paths.get(System.getProperty("user.dir"), "data", "customs-questions.txt");
+        this.filePath = Paths.get(System.getProperty("user.dir"), "data", fileName);
         System.out.println(this.filePath.toString());
         this.fileLines = Files.readAllLines(this.filePath);
     }
