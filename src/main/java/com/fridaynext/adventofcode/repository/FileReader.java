@@ -1,2 +1,98 @@
-// BEGIN KEYBASE SALTPACK ENCRYPTED MESSAGE. kiOUtMhcc4NXXRb XMxIeCbf5rEk6GL otHEUiBNJacMwsj Bg1B8YszpwRd1yl N3y6NKGxblFIjkD kYYox0hZ6hsLss6 GRNK21RE7kuooCh F2qAtwVZ19VHqyy Mz3GODqbfVxBLcJ rTaCZw9hYXi2Rdu V1k8buKqZabMTnw a0o8hsQHBQhwSiS JB89UWQ4omXhg1C ElloRxO81Yn6RnU yUu6BiH6DkxAjYE DURCP10Pv80mbfR uCVIWeD1c2uonXE NKYI3s6Xhhv0OtY 1NL7zFmDX5SgUMx JiAYN4GVqpPQyz7 ga0Ojao0lnNLA7U XCt4t5wHgDo062u vpOlMAfzHjoP4mK nE67Q3WZgbsvrhw FEcaHzhh9WO29Vf BoGcYKjmmYDbiP4 QQHnDEIJr80HYN3 Nvleh2JOIWDCeGe QmtZTvEksOnlJSD CdLgRqMYTRUGhk8 9ndcUGTWgTZgwYE UB4O5PNtH8PCwhP c0uxUgsZLlxnsu5 EizENRWaIxbPxvm b8hFVK3IvI5NeZs LWLNNzyjLvbe76q BOJtHebQEeCsVbM 3JINhNU30z8nzzg wYDuQxq6ISBoaxa 93LqSepHMSQacdL NmGcM1tORHfpruT 0fvasG5kDLOloAZ JduJiKYWrQhSwbb pt5oYcT6YNatfhB USqfFUin6sUb5NU EhHmkFnbnJDeA4x 2ufi0sKOyhu2KpF yTNDKWqvQsCSXME 0eMZfFZArFN9VpH OJG0k4IEGCt7cMK G7QuSSeXqaDPfs2 O1K3xkdN799vSW8 68j3pH9DSV5nesK 3K6nUqZOLo9xdPC lwFZ1skWFMJZ1Oy 0jns50r5OmGrOrT tXVZkqlRqz0ZrSG S1IVYOCbTx645O0 OzrYAC7n26cjtaX 0sr4YtYTpBH93XF ogFfWRKpvJ2ayoj LHJ7dB0tT3gIPYM s76OrfhIJDome0D ccdK7QbBQrTeMDL R7tJgkItfAtfLU9 0jq0TOB7MU8wHvn L8kkyLINvhpQJTf 9m4ydZFS4HFr0td kfyarP3RQ0uu4gD lq2ZVD1KzZQjcNC ojNqhzEQi5CEwvS NrRGZWUf1pSBAme BC10sdjiEaKEAEJ V8dRroB6B3yNRND 0cF1jWkeKI4vuY7 ApNVYB9yHuqNgkf bSSx32QKhAl9fYe bT1LlMgOxBPRx22 GNYZADTrdG9cPPY LzTq8nYcoFN5lIg who93LS8obNGA7z YtIkyrGTBr8htgw ywkBtEijStz2Iyo QB32PUY23CeFSLs NM7NfkkiANXnazA kMNdmPzsYaqo1wA inf1E0lzaL830ey TGnzo38aIWHl1oV YcbMVCRlQ1AvPHC 7rmQUv9eGlGAxDA gYukbqXiVtJ6waB CaEd3lOW2P2Svjg FFytyczQDMEgLl5 vqyCI35CmcLrcGN uZb35fnzFhfDmYn 8EaPjm3783EIeCi v6PTJqeLwCPJjOl czj7NzhIWXQauc7 pXEFqA7Bg1aEZ8b QSC2HY77KZeH3CT Zp2s7lAaLAnWKmr hMbnqAk9sFtFfl1 YBvh82GQf4YIqwE 6wj77lwBWlmDOAb R2MJ9li3N2qvxcg 20svHjlia9zDuru 87cwcGNMuzwgfT2 ewq7RXuxAzJfBgj QvcNamUVlGJVUVd 52S0RkBKfEZkeE3 zosOvtPoyTjNExw lchQAHjpTGvpOlG qeroM6uVEVLYZIt 4yvjdygDDgsYsAI uNuO6QVQeNgf509 uOphXTn3Z5W5BZw uR4QHfjdet1mhCn xbCIB0eW3XTHWF6 O2VlPrPYM62eQxr ELPVD53oZH0lBYq i5EUM1PjQSVm9sp CMqLTcWJJ2pwpgl GLTUlVQGJmRd1TH 0ua7hkGfRgxtXKX ezJE4nsLg9k1BvE hpcEuMTwzC6bfpx 8B2f6nLgF3Yd3Qy 0lmmQoGXZwG2dVa 53eEdQE07pz9q5n dr58QiykbZ5ap3P rSytUtR4r2OK9bc suLmedIr1ACheKy 86RFahsyv1xPJMv EjHqcYprXIOER0V uBxr522r9XpQJt2 3RV43YaruJ993vB 5iOAOb5jKuzCSnF 92TsUUHG6jocKMw S9Nrl6Yhla748kS ncXKhTX7CZdXNXE bIi0HDf4MQqh9fS OEMOdUTBasx6lcK XOgbDEaKDbCDn6u 2ymZxlmqXUeXemA HGNZuZyxcdm1n8W 9yGfkkHhVQg0Bd1 Si3vxBaupWpCLK1 O4ra6ZlUNVW9HwJ p6PtL2wL1UWoxyj X2vcGQkSXyWlq0P 61GiCs6csJIu0hG 37ffWHV56Dwgsu6 27BH1Oc4gjc7rkt ywSm1Bw4EgPvjw7 wDyxMa7UFQPSVrQ ZfArZAYetttncfC MkUAKwLAT0Mi8g3 FUTwitwQA3nviX1 bj2zNv5l87ABUva PTzuAsMLTEzMI57 3WBmf8LWGMPfvfc vKsgcnQmdvcSVNe vhiTdu0gcE98TUL egQ3aTqRtBKeMag 5OVI1L1DxDm9Qi8 z56x3FR6NEtg1T7 EqPo8lLWygRCOge wj1PwYvTQfiGAyV TRV2OvcmkTIIAYB ru7yL6QVooebDQi 9VWDQqTpukzjryl 9nwHI4KpcjV7bbM LJ3x6SuR9siLadt u6KUGMQTehwxF0o a1WG4ADxTTJAi2t xVtTnVFiULGlqrE pfENM0AVIqEFvBp QbphHas7z1lnTGR aa1YS3YbAtN52sr M8YqCrDShDOvhkp osGODp6MAi9Isib 43lhAkQfoRsTQOM 0pCO9CeP5CpojOu KG7ugdHxunILvjH 8ltwsRNIlOkQppu Yqo589hAzp1wXGv WvZFdmTxaCBlhUy uel94Z8bYvm65Hg JTgibA8BjZ11qh8 7U8KFf4Fc2nlY38 jJxRSHuXkmWZb84 e30WM2qsEvqT9bx ljzFgbE3b3T0syF fqSiGRE0ZwC65JO jJh0j1t2W3lXMwn bwi36vtC8GN7STT OYzM9e8slnuuf4o gcl4huiInNlCiwX hNXmSF1oHahF4Wl UmBytniPf5lAZ6V
-//         p04zjBTMThGIHLm uxe3AtI2cjXlykq UzKBbzJZKCn7ekk auv0OYwOUYHKxwV Y7AQNhjKYNj6uBz Plxz5t5yGueRBxu hBdlJfR3Sm9B4kw aE2Rzu6AVsXnaMu SdgAiFyK7ZYia6A kwwQ44kRJDLEALP gP2teKONI4GoFe3 pYI0rOebSFjuV9r je8zdZVHNELO5v4 61S96A2WUvgG7V7 zAluIb8HvC4CHz3 75jR03Qy4JuPsER 8hC3BaM5rSxxutf CTk2VRoKXgxxpDY 1Xg5rY4simzRy1G TpVUC85rwkE5Rwf yhyEMer30w9Yhna d9WkprrF82oxqKs Rfq79qp013d3o8D bMMF7PH2Q96Rg7J B0KHwfHGUICVLRA 9TeIqPo3iPS4fVw 64ldAtTxr4fGQT5 pv8biL5zAsvDMxU 3mLT9UWNclk2Blu kh5frXn2DdqR60u XlWYpb3f62TKJTs Ou6XOfa7vvh7ce8 rOL20yeE0SFoi4D 1ByOeYNil7qn9LS eWOLXVwJYcKSxtL OddjvbINOTocOS9 9GMFcxes5ioYzR0 4A21s3SWMA9D59f 2XNDbEAKba5GUBD kMbFTRaiWpPzji0 e2eEo7ZvnJMlpJJ oZVQftGx3OeaiQV VZspwm6Z10cAPQV c9rJLWHcL04yLyz SNhrlKzQsgk15Ie 84YMMyth2941A1n hJ23lmcsbEEFznm zcwCPL0ERm4qv5J JMbC1mnBw63nTQG Nl3NCfdvSezhuNT NTJ4MitJu0d81uG A3oECInQ9oX3tjN AQOkAZg1OBLsOT2 Nhs2jm3RQ8qZszs yitZPiXOTXfZcCy APdNz6xdJFJNF6O 0IMdBxHGW98LmTU soQYa07vTn6R7Uy WXQ4i52iCy1coz7 I2yjVjBIXk8xYPE lkS0Bt7gGaPMjbI VVlodogy0UJUzaG VrU6aosDanMQd9i v2qxFPvn4tgwfIE PwRdBkbPTOoM0gK gRFgV5227czBAr4 Sz1g9CU60aES5M1 yc1v5XfQkoQzjug am1HZ4pY3Ltlz1o IE6sOPswDoTPelh S1oLqx7MjlsLLkO N5x7FhaFx8PeegZ 29Nk6Ri1ufe8tYK QLKuTu9bU8VuBc7 jPPAA8mw0R5wK7i 1wjIBeR0yR9dS6n WSYn6gUIcwa7uCW rkQy849qsjCn1js jUluIhUfsscmb9x IkRS3IcpvrkLV3e eAPNYpEbPDKU1VB BIfSfXqyrA8G3OK J9Lt7s11patAZKb m4Q7zmMG4D7VR0o UvFqJOdN4dAgZdV ID9uhAMhQaez8zM F9fNXgW1X8qOu19 6YiHTBlACSfcJHD iQ6emmzTBaOfIL6 uze1XMevmOOzE4g Wn6fH80fAznWYq4 BUPrTfBvLzDBztg fzwnmhW8Vf9lbST mmPPXrNhKExzqcC LN3iuBhfB6lSh1R JxESHxypQfr15Fi F1TFneYXQ2PrMCl XAfrSK9SXWCHbnS FZlcwqv7mAKNjKM rbgVygjH5fngZ5J geYWwNHd5w7q2mL 1aUO084kHuXrI7S 1we0H7MTqvMMTvZ qCNUMHhiQ13jAXA hzvDV5Zt26lGgqB 8m0I09vWIlgi6pJ LX4CeGnM2kUbhbZ 7lprawS6H4rmQt4 o8BDX96DWFeA7cE eutdCZYbdsZyDFc Ed0mWSAr9yVmbUo uOGZqAPq0RTPYJ3 JDMAKM5TmV2VyjW PRnfMcU7qPOdnnY KxmUWmrd8jcSvfy CxyvukXg5PnZxgL sTJZ8xaTWEuUu6j myn10Ffx9FxoV7v GbEa2ONyktHkbcT O4snhhoA69Z28pM DNttpXMHH9s3lf9 PGH55EQXzpdSGAl P9O8MgIS8aZZe0b 7QC6taezaeuFNbl fxlMq2hHLZ6Nb0s GwJG8PjkidHXkPK BU6Rg3Or9GRP0Jw oyJK4U5bnM240xG 2SsXybqd. END KEYBASE SALTPACK ENCRYPTED MESSAGE.
+package com.fridaynext.adventofcode.repository;
+
+import com.fridaynext.adventofcode.model.CustomsGroup;
+import com.fridaynext.adventofcode.model.Person;
+
+import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collections;
+import java.util.List;
+
+public class FileReader {
+
+    // read in the file and parse it
+    private Path filePath;
+    private List<String> fileLines;
+    private String fileName;
+
+    public static void main(String[] args) throws IOException {
+        // Just doing things in main for now - classy classes come consequentially
+
+        // Create an arraylist to hold all the groups
+        List<CustomsGroup> allGroups = new ArrayList<>();
+        CustomsGroup tempGroup = new CustomsGroup();
+
+        int tot = 0;
+        // for customs questionnaire, we'll be returning a list of question groups
+        FileReader customsReader = new FileReader("customs-questions.txt");
+        for (int i = 0; i < customsReader.fileLines.size(); i++) {
+            // grab all answers until reaching a blank line
+            if (customsReader.fileLines.get(i).equals("")) {
+                // we've reached a blank line, so increment the group index
+                tot += tempGroup.getNumUniqueAnswers();
+                allGroups.add(tempGroup);
+                tempGroup = new CustomsGroup();
+
+            } else {
+                Person thisPerson = new Person(customsReader.fileLines.get(i));
+                tempGroup.addPerson(thisPerson);
+                if(i == (customsReader.fileLines.size() -1)) {
+                    allGroups.add(tempGroup);
+                }
+            }
+        }
+
+        // calculate the number of unique answers
+        int totalUnique = 0;
+        int totalUnanimous = 0;
+        int index = 0;
+        for (CustomsGroup thisGroup : allGroups) {
+            System.out.println(index + " Total: " + thisGroup.getNumUniqueAnswers() + " Answers: " + thisGroup.getUniqueQuestionsAnswered());
+            totalUnique += thisGroup.getNumUniqueAnswers();
+            totalUnanimous += thisGroup.getNumUnanimousAnswers();
+            index++;
+        }
+
+
+
+        System.out.println("Total unique yes answers: " + totalUnique);
+        System.out.println("Total unanimous yes answers: " + totalUnanimous);
+    }
+
+    public FileReader() {};
+    public FileReader(String fileName) throws IOException {
+        this.fileName = fileName;
+        this.filePath = Paths.get(System.getProperty("user.dir"), "data", "customs-questions.txt");
+        System.out.println(this.filePath.toString());
+        this.fileLines = Files.readAllLines(this.filePath);
+    }
+
+    // Getters & Setters
+    public Path getFilePath() {
+        return filePath;
+    }
+
+    public void setFilePath(Path filePath) {
+        this.filePath = filePath;
+    }
+
+    public List<String> getFileLines() {
+        return fileLines;
+    }
+
+    public void setFileLines(List<String> fileLines) {
+        this.fileLines = fileLines;
+    }
+
+    public String getFileName() {
+        return fileName;
+    }
+
+    public void setFileName(String fileName) {
+        this.fileName = fileName;
+    }
+}
