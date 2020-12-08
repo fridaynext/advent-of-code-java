@@ -14,7 +14,9 @@ public class Bag {
     private List<Bag> interiorBags;
     private int quantity;
 
-    public Bag() {}
+    public Bag() {
+        this.interiorBags = new ArrayList<>();
+    }
     public Bag(String color, List<Bag> interiorBags) {
         this.quantity = 1;
         this.color = color;
@@ -29,7 +31,6 @@ public class Bag {
         List<Bag> allTheBags = new ArrayList<>();
         for (String thisLine : bagReader.getFileLines()) {
             // get the color of the outer bag
-            System.out.println(thisLine);
             int firstStep = thisLine.indexOf("contain");
 
             // first half
@@ -41,15 +42,12 @@ public class Bag {
 
             // index 9 to start inner contents
             String innerContents = thisLine.substring(firstStep+8);
-            System.out.println("Inner contents: " + innerContents);
             // get the other bags separated by commas
             String[] innerBags = innerContents.split(", ");
             for (String bag : innerBags) {
                 // quantity, space color
                 Bag thisBag = new Bag();
-                if (bag.equals("no other bags.")) {
-                    // nothing inside, nothing to assign
-                } else {
+                if (!bag.equals("no other bags.")) {
                     thisBag.setQuantity(Integer.parseInt(bag.substring(0,1)));
                     thisBag.setColor(bag.substring(2, bag.indexOf(" bag")));
                     theseBags.add(thisBag);
@@ -58,6 +56,34 @@ public class Bag {
             outerBag.setInteriorBags(theseBags);
             allTheBags.add(outerBag);
         }
+        // Print one bag to see how it works
+        // System.out.println(allTheBags.get(12).getColor()); // works!
+
+
+        System.out.println("Total shiny gold one level deep: " + Bag.getSpecificColorTotal(allTheBags, "shiny gold", 0));
+    }
+
+    public static int getSpecificColorTotal(List<Bag> lotsaBags, String color, int currentTotal) {
+
+        for( Bag oneBag : lotsaBags) {
+            // go through all interior bags to see if shiny gold
+            if( oneBag.getInteriorBags().size() != 0) {
+                // there are interior bags, so let's find out how many match our color!
+                for(Bag interiorBagLvlOne : oneBag.getInteriorBags()) {
+                    if (!interiorBagLvlOne.getColor().isEmpty() && interiorBagLvlOne.getColor().equals(color)) {
+                        System.out.println(oneBag.getColor() + " bag has shiny gold inside");
+                        currentTotal += 1;
+                    } else {
+                        if (interiorBagLvlOne.getInteriorBags().size() != 0) {
+                            // this bag has more
+                            System.out.println("level deep");
+                            currentTotal = getSpecificColorTotal(interiorBagLvlOne.getInteriorBags(), color, currentTotal);
+                        }
+                    }
+                }
+            }
+        }
+        return currentTotal;
     }
 
     public String getColor() {
