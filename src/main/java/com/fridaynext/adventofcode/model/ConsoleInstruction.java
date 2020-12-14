@@ -51,7 +51,7 @@ public class ConsoleInstruction {
         boolean keepGoing = true;
         // Now go through each instruction and keep track of which have been performed
         List<Integer> usedIndices = new ArrayList<>();
-//        for (int i = 0; i < allInstructions.size(); i++) {
+
         do {
             if (usedIndices.contains(i)) {
                 keepGoing = false;
