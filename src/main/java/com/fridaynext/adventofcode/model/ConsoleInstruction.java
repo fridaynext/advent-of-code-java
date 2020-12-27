@@ -55,10 +55,12 @@ public class ConsoleInstruction {
         do {
             if (usedIndices.contains(i)) {
                 keepGoing = false;
+                System.out.println("index - " + i);
                 System.out.println("Accumulator before infinite loop is: " + accumulator);
                 break;
             } else {
                 usedIndices.add(i);
+                System.out.println("index - " + i);
                 switch (allInstructions.get(i).getInstruction()) {
                     case "nop":
                         System.out.println("nop");
